@@ -1,9 +1,9 @@
-# Germany Risk Free Rate
+# Svensson Method - Risk Free Rate
 ## Description
-Workbook to calculate the Risk Free Rate of Germany via the Svensson Method and averaging the last three months.
+Workbook to calculate the Risk Free Rate of Germany and US via the Svensson Method and averaging the last three months.
 
 ## Input
-Input should be replaced by the latest data from Bundesbank (Beta0, Beta1, Beta2, Beta3, Tau1, Tau2)
+Input should be replaced by the latest data from Bundesbank/ FED (Beta0, Beta1, Beta2, Beta3, Tau1, Tau2)
 
 ## Sources
 
